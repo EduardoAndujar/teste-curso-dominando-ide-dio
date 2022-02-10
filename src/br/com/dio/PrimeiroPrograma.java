@@ -16,7 +16,6 @@ public class PrimeiroPrograma {
 		System.out.println(gato.equals(gato3));
 		System.out.println(gato.equals(gato4));
 
-		System.out.println(gato);
 		System.out.println(gato4);
 		System.out.println(gato5);
 
