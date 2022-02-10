@@ -10,6 +10,7 @@ public class PrimeiroPrograma {
 		Gato gato2 = new Gato("Bento", "Caramelo claro", 3);
 		Gato gato3 = new Gato("Bento", "Caramelo claro", 1);
 		Gato gato4 = gato;
+		Gato gato5 = gato2;
 
 		System.out.println(gato.equals(gato2));
 		System.out.println(gato.equals(gato3));
@@ -17,6 +18,7 @@ public class PrimeiroPrograma {
 
 		System.out.println(gato);
 		System.out.println(gato4);
+		System.out.println(gato5);
 
 	}
 
