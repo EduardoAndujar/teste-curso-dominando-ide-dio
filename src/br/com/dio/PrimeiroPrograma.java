@@ -13,7 +13,7 @@ public class PrimeiroPrograma {
 		Gato gato5 = gato2;
 
 		System.out.println(gato.equals(gato2));
-		System.out.println(gato.equals(gato3));
+		System.out.println(gato.equals(gato5));
 		System.out.println(gato.equals(gato4));
 
 		System.out.println(gato4);
