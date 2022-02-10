@@ -18,6 +18,8 @@ public class PrimeiroPrograma {
 
 		System.out.println(gato4);
 		System.out.println(gato5);
+		System.out.println(gato3);
+
 
 	}
 
